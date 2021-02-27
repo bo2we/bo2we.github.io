@@ -20,6 +20,17 @@ knitr::opts_chunk$set(echo = FALSE)
 # Learn more about creating blogs with Distill at:
 # https://rstudio.github.io/distill/blog.html
 
+
+# library(httr)
+# 
+# set_config(
+#   use_proxy(url="127.0.0.1", port=1087)
+# )
+# 
+# # testing using this:
+# httr::GET("www.google.com")
+
+
 ```
 
 
