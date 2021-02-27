@@ -2,7 +2,7 @@ name: "Github_Page"
 title: "Thinking Lab"
 description: |
   Thinking Lab
-output_dir: "."
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
