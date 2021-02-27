@@ -1,5 +1,5 @@
 ---
-title: "Thinking Lab"
+title: "Thinking Labs"
 site: distill::distill_website
 listing: posts
 ---
